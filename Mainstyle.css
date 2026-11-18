@@ -1,3 +1,7 @@
 p {
     font: 1em sans-serif;
 }
+
+body {
+  background-color: lightblue;
+}
